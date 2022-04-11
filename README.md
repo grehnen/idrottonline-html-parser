@@ -3,8 +3,8 @@ Pythonscript som parsar HTML-filer med nyheter exporterade från IdrottOnline, o
 
 # Instruktioner
 1. Placera scriptet i mappen där du extraherat filerna från IdrottOnline
-2. Kör scriptet, filen allPosts.json borde skapas innehållandes alla nyheter
+2. Kör scriptet, filen allPosts.json bär skapas innehållandes alla nyheter
 3. Klart
 
 # Exportera filer från IdrottOnline
-Info här: https://www.rf.se/bidragochstod/it-tjanster/Nydigitalinriktningmot2025/Aktuellt/exportverktygforidrottonline-hemsidor
+Se hur du gör här: https://www.rf.se/bidragochstod/it-tjanster/Nydigitalinriktningmot2025/Aktuellt/exportverktygforidrottonline-hemsidor
